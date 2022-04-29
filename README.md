@@ -1,2 +1,3 @@
 # MyOdinRepo
-My "The Oding Project" Repository
+My "The Odin Project" Repository
+Hello Odin!!
